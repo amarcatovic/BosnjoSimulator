@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingIntro.unity
+    guid: 9683f9f22d98dc9449358b0cd96265c8
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: f64706881d10b9645ad35cacd7bc758e
+  - enabled: 1
+    path: Assets/Scenes/newPlayer.unity
+    guid: bb6785e3c5b8061489ba9d16d9d91ad0
+  - enabled: 1
+    path: Assets/Scenes/HelpScene.unity
+    guid: a3012d35c8b29ca4591267406ca88750
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 04076b21079278e46ba0380635547ece
+  - enabled: 1
+    path: Assets/Scenes/PlayerStats/Doctor.unity
+    guid: 2aba20e3975c2df408548c477671bd1e
+  - enabled: 1
+    path: Assets/Scenes/PlayerStats/Happiness.unity
+    guid: a38bb13e05577774c9fa34552b6f09cf
+  - enabled: 1
+    path: Assets/Scenes/PlayerStats/HappinessEvent.unity
+    guid: beb7d99603684b34dbb9a261c3dfffa9
+  - enabled: 1
+    path: Assets/Scenes/PlayerStats/BuyFood.unity
+    guid: 281ef4b6aa7e9f642a4dafe397571498
+  - enabled: 1
+    path: Assets/Scenes/PlayerStats/BuyDrinks.unity
+    guid: c058dcab49c3aae44b7584e65373d932
+  - enabled: 1
+    path: Assets/Scenes/PlayerStats/changePlayerName.unity
+    guid: ae4c54e2e9df5774e8fdd8d5bd73e1e9
+  - enabled: 1
+    path: Assets/Scenes/Shopping/DomaciProizvodi.unity
+    guid: 59896aabd7d5d1c41804648e86bf6573
+  - enabled: 1
+    path: Assets/Scenes/Activities.unity
+    guid: f2b1fd83dbc340f4b820aa4c7a32c8a2
+  - enabled: 1
+    path: Assets/Scenes/WorkPanel.unity
+    guid: 6a4d9051d3efd6a43a6fb40e75bf1b28
+  - enabled: 1
+    path: Assets/Scenes/Papiri/PapiriMain.unity
+    guid: 767663abad9e52245a17903c64557302
+  - enabled: 1
+    path: Assets/Scenes/Papiri/Passport.unity
+    guid: f39338248df0b6c4a8d1ebed24785cca
+  - enabled: 1
+    path: Assets/Scenes/Papiri/Visa.unity
+    guid: 674eff87190dee64a8bfee02703dff41
+  - enabled: 1
+    path: Assets/Scenes/Banka/Banka.unity
+    guid: 6ccdb7195d8ad9b4c900eb96d8380313
+  - enabled: 1
+    path: Assets/Scenes/Banka/BankaReturn.unity
+    guid: d0e13d4b847a4c64da51b84607fd7499
+  - enabled: 1
+    path: Assets/Scenes/Nekretnine/Nekretnine.unity
+    guid: 198d809e5f1f22e4eb5bddda1fd9b5f0
+  - enabled: 1
+    path: Assets/Scenes/Nekretnine/NekretnineAutomobili.unity
+    guid: f004e31ec678e62468132bc3511b86c4
+  - enabled: 1
+    path: Assets/Scenes/Nekretnine/NekretnineStanovi.unity
+    guid: 72a3f4636c671d0409a54c339cd04a87
+  - enabled: 1
+    path: Assets/Scenes/Kockanje/Kladionica.unity
+    guid: 6ed53bae0653b4b40ba69b9484bfcdb3
+  - enabled: 1
+    path: Assets/Scenes/Kockanje/Tiket.unity
+    guid: 7a68d030a1936c942834d5a6a5f300ab
+  - enabled: 1
+    path: Assets/Scenes/Kockanje/TiketUtakmica.unity
+    guid: ac479668307f7e340a01e52877fd5111
+  - enabled: 1
+    path: Assets/Scenes/Kockanje/Bingo.unity
+    guid: 97c96abee8a1fe84eac19261053197fa
+  - enabled: 1
+    path: Assets/Scenes/Kockanje/BingoIzvlacenje.unity
+    guid: ef7d43a96fb99944387da4329cff8a23
+  - enabled: 1
+    path: Assets/Scenes/Kockanje/TrkeKamiona.unity
+    guid: 59742568cb357394d8b2b73c18958c44
+  - enabled: 1
+    path: Assets/Scenes/Shopping/buyNewCars.unity
+    guid: 4ce3fb57c23676145abf69b2b238aa2f
+  - enabled: 1
+    path: Assets/Scenes/Shopping/buyOldCars.unity
+    guid: 0f5edb7f12c71e844b024fca047a90c8
+  - enabled: 1
+    path: Assets/Scenes/Kockanje/TruckRace.unity
+    guid: dff9eaf53b1377b44ba5c4b48cfe2bfd
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/CoinDrop/MoneyCollectorGameIntro.unity
+    guid: a41f5edb7024c4b478976e218d53a26e
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/CoinDrop/MoneyCollectorGame.unity
+    guid: 77872f810e9264b47b6e182bc14311c4
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/CoinDrop/MoneyCollectorGameScore.unity
+    guid: 060346812a80fd6419b9361c94ef169c
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Taxi/TaxiIntro.unity
+    guid: a31f1259c01f4764eae89616cf2e25a9
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Taxi/TaxiLevel01.unity
+    guid: 06215c60cb70c7a459390fdd204a464d
+  - enabled: 1
+    path: Assets/Scenes/Shopping/buyLuxCars.unity
+    guid: cd00bbfdc7354994f84fdee0eaa924f5
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Taxi/TaxiLevel02.unity
+    guid: 94ae2533e0d5af74cba6d2125698e81b
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Taxi/TaxiLevel03.unity
+    guid: 79223630a6962d94986343ad0f70932a
+  - enabled: 1
+    path: Assets/Bosnjo Jump/Scenes/SkelaIntro.unity
+    guid: 8ad631f177661574fbf1c407039ac278
+  - enabled: 1
+    path: Assets/Scenes/Shopping/buyHomes.unity
+    guid: d006335b1ed16404b84729a57f75452b
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Vodoinstalater/VodoinstalaterLoader.unity
+    guid: 737bc405867bfd64588aba66b472a8bd
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Vodoinstalater/VodoinstalaterLevel01.unity
+    guid: 89743f039d451224f9f2aed49fc1c85e
+  - enabled: 1
+    path: Assets/Scenes/Shopping/buyClothes.unity
+    guid: 4188138b0d20b834bb3956fa20f02606
+  - enabled: 1
+    path: Assets/Scenes/Shopping/buyCars.unity
+    guid: c6eefd0fba375a04eb6b83c51f4a9002
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Vodoinstalater/VodoinstalaterLevel02.unity
+    guid: 45c8b61470ce33d4092290052fbd7ed5
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Vodoinstalater/VodoinstalaterLevel03.unity
+    guid: 564ecf88e60d4324ebb0ab9ab5876fd8
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Vodoinstalater/VodoinstalaterLevel04.unity
+    guid: 75cb0fa8a7e06d7478541312f08b6139
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Vodoinstalater/VodoinstalaterLevel05.unity
+    guid: 37b4233fcaa969b4b90f7114ad4b8835
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Vodoinstalater/VodoinstalaterLevel06.unity
+    guid: 704a15ee90771cb4098f3a545b15b911
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Vodoinstalater/VodoinstalaterKraj.unity
+    guid: 93d0de907f3b7134da1e12f728c92123
+  - enabled: 1
+    path: Assets/Bosnjo Jump/Scenes/Scena.unity
+    guid: 5d6404f0a067cde49ac5b1009ae047d7
+  - enabled: 1
+    path: Assets/Bosnjo Jump/Scenes/End Game.unity
+    guid: 976409eb23774634d9a2b0f2e797855e
+  - enabled: 1
+    path: Assets/Memory Game/Scenes/FakultetMenu.unity
+    guid: a4efc7b6100b05c47b7c9e6552ad4b3f
+  - enabled: 1
+    path: Assets/Memory Game/Scenes/FakultetBeforeGame.unity
+    guid: 10542ba3592ee704ca006a3d32360e20
+  - enabled: 1
+    path: Assets/Memory Game/Scenes/MemoryGame.unity
+    guid: 178b0812fc376b04e9d19d606e51e128
+  - enabled: 1
+    path: Assets/Scenes/AboutScene.unity
+    guid: dd0a2753bbacc6049992bbaad9a17601
+  - enabled: 1
+    path: Assets/Scenes/Shopping/shoppingMain.unity
+    guid: 52de50c4a36943d4ba937af9688d2eef
+  - enabled: 1
+    path: Assets/Scenes/Shopping/DomaciProizvodiIntro.unity
+    guid: 19cac4fda72aa1a4bb89844a11bde2dd
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Fabrika/FabrikaGame.unity
+    guid: 9e194d1a2ae6a434aa7fcce6ff57703b
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/Fabrika/Fabrika.unity
+    guid: 338b9d2fa5183b746be29864f9424010
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/WorkFromHome/WorkFromHome01.unity
+    guid: ef96b2ff13e79b74ea8653753f0eb36f
+  - enabled: 1
+    path: Assets/Scenes/Mini Games/WorkFromHome/WorkFromHomeJob.unity
+    guid: 62ad6fa36d297d84689b00e1103a3a64
+  - enabled: 1
+    path: Assets/Animacije sa slikama i scenama/Odmara.unity
+    guid: ecd9340220ae1a749b3444847c21aabb
+  - enabled: 1
+    path: Assets/Animacije sa slikama i scenama/Party.unity
+    guid: 2788f2589a789ec4bbe98b57f0db87cf
+  - enabled: 1
+    path: Assets/Animacije sa slikama i scenama/Vozi.unity
+    guid: 2ab81c50d894adf48a8df6f6a43702bb
+  m_configObjects: {}

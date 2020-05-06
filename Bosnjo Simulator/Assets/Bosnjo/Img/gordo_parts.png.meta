@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 9e214b956e8291041ad43a0eb5ef03bc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arm_1_1
+    21300002: Arm_1_2
+    21300004: Hand_1
+    21300006: Leg_1
+    21300008: Leg_2
+    21300010: Head
+    21300012: BodyTop
+    21300014: Arm_2_1
+    21300016: Arm_2_2
+    21300018: Hand_2
+    21300020: Belly
+    21300022: BodyBot
+    21300024: Foot_1
+    21300026: Foot_2
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arm_1_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 799
+        width: 179
+        height: 208
+      alignment: 9
+      pivot: {x: 0.6757202, y: 0.7732186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abe64cf1ab604d4486266b40170bde7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_1_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 619
+        width: 112
+        height: 169
+      alignment: 9
+      pivot: {x: 0.47835156, y: 0.8178626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b357de97bfb6bb48bed8b1968f3c941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 435
+        width: 130
+        height: 162
+      alignment: 9
+      pivot: {x: 0.62279177, y: 0.88591707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2592a66787dd7f44498bada5099b0c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 151
+        width: 176
+        height: 234
+      alignment: 9
+      pivot: {x: 0.6124939, y: 0.81664985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c784c97ac29b042acbd084787269de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 144
+        width: 181
+        height: 228
+      alignment: 9
+      pivot: {x: 0.60086477, y: 0.86052763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa9ed69a91abdc40b4177b1eedf92b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 733
+        width: 271
+        height: 291
+      alignment: 9
+      pivot: {x: 0.68005764, y: 0.3017427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaee19b9c13607449083bd20805e03f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodyTop
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 399
+        width: 459
+        height: 333
+      alignment: 9
+      pivot: {x: 0.76642287, y: 0.29507667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a4ef3e76ed3f4e9fef83a3d8e6645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_2_1
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 799
+        width: 168
+        height: 217
+      alignment: 9
+      pivot: {x: 0.4161962, y: 0.74769783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4804695948c1544b4108e2da3aea4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_2_2
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 605
+        width: 109
+        height: 178
+      alignment: 9
+      pivot: {x: 0.49518567, y: 0.7996055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a6ff9e470e57f4bbb493b1ff5bf715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_2
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 432
+        width: 153
+        height: 158
+      alignment: 9
+      pivot: {x: 0.42432997, y: 0.82973915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a43893024bc0f4c9a4dab4a3c700fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belly
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 195
+        width: 382
+        height: 204
+      alignment: 9
+      pivot: {x: 0.6728252, y: 0.776881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff04fdf89c82d14eb174d209634aab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodyBot
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 368
+        height: 193
+      alignment: 9
+      pivot: {x: 0.7481064, y: 0.8566247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184fb40791583c749a2b52b90cb05101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 19
+        width: 273
+        height: 122
+      alignment: 9
+      pivot: {x: 0.678626, y: 0.5756218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca49eee0f86b56f4aaf2c15ba00a0cc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot_2
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 26
+        width: 271
+        height: 115
+      alignment: 9
+      pivot: {x: 0.7139877, y: 0.52292156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc355031093190b4fa8bb814b274a9ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
